@@ -97,6 +97,9 @@
 		<Unit filename="/home/oswinso/Documents/74juu/vm/main.c">
 			<Option target="vm"/>
 		</Unit>
+		<Unit filename="/home/oswinso/Documents/74juu/vm/main.h">
+			<Option target="vm"/>
+		</Unit>
 		<Unit filename="/home/oswinso/Documents/74juu/vm/printing.c">
 			<Option target="vm"/>
 		</Unit>
