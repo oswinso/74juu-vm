@@ -12,6 +12,8 @@
 #define MEMORY_SIZE 1 << 16
 #define EEPROM_SIZE 1 << 13
 
+typedef uint8_t u_char;
+
 _Bool running = true;
 
 double clock_rate = 1;
